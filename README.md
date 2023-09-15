@@ -3,13 +3,13 @@
  1.first add songs to the playlist
 
 <p align="center">
-   <img width="240" height="340"src="icon/playlist.png">
+   <img width="340" height="300"src="icon/playlist.png">
 </p>
 
  2.press play button to enjoy the song 
 
 <p align="center">
-   <img width="240" height="340"src="icon/player.png">
+   <img width="340" height="300"src="icon/player.png">
 </p>
 
 ### Installation
