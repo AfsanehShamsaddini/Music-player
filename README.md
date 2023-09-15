@@ -13,7 +13,7 @@
 </p>
 
 ### Installation
-1. Install requirements.txt
+1. pip install -r requirement.txt
 2. Run main.py
 
 ## Author
