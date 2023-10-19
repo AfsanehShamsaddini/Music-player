@@ -1,16 +1,11 @@
 # Music-player
-### Sceenshots
- 1.first add songs to the playlist
+# Preview
 
-<p align="center">
-   <img width="340" height="300"src="icon/playlist.png">
-</p>
+ 
 
- 2.press play button to enjoy the song 
+https://github.com/AfsanehShamsaddini/Music-player/assets/107355829/e927fd66-2db1-4cc5-ba44-115b337b95af
 
-<p align="center">
-   <img width="340" height="300"src="icon/player.png">
-</p>
+
 
 ### Installation
 1. pip install -r requirement.txt
